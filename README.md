@@ -8,6 +8,7 @@ nodejs ts
 cdktf
 typescript 1.18+
 terraform
+dockerd
 
 ### 核心步骤
 1、cdktf init --template=typescript --local
